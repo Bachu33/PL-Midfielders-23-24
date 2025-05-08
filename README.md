@@ -1,6 +1,6 @@
 # Midfielder Stats App
 
-This is a Streamlit app that visualizes midfielder performance in the 2023/24 Premier League.
+This is a Streamlit app that visualizes midfielder performance in the 2023/24 Premier League Season.
 
 ## Features
 - Assists
